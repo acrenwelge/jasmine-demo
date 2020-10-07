@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-demo",
+  "version": "1.0.0",
+  "description": "* `npm install` * `npm test`",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acrenwelge/jasmine-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acrenwelge/jasmine-demo/issues"
+  },
+  "homepage": "https://github.com/acrenwelge/jasmine-demo#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  }
+}
